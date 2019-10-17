@@ -1,85 +1,33 @@
-# Interactive Art/Design studios around the world
+# Interactive Art/Creative coding studios around the world
 	
 - [Zimoun : sculpting sounds](http://www.zimoun.net)
-	
-[Nymi](https://www.nymi.com/)
-	
-[Written in the stars - AKQA](https://www.youtube.com/watch?v=pY1Wlyqcdsk)
-		(written-in-the-start-akqa)
-	
-[Water Light Graffiti - Antonin Fourneau](https://vimeo.com/47095462)
-	
-[Apparation - Klaus Obermaier](https://www.youtube.com/watch?v=-wVq41Bi2yE)
-	
-[Martin Brinkmann]
-
-	
-[Journey - Jenova Chen](https://www.youtube.com/watch?v=InevEqRGRHA)
-	
-[Limbo - playdead](https://www.youtube.com/watch?v=dY_04KJw-jk)
-	
-[Line Segments - Kimchi and Chips](https://vimeo.com/90047240)
-	
-[The creators project](http://thecreatorsproject.vice.com/)
-	
-[basil.js](http://www.basiljs.ch/)
-	
-[Nodebox](https://www.nodebox.net/)
-	
-[Hype framework - Joshua Davis](http://www.hypeframework.org/)
-	
-[Joshua davis](http://www.joshuadavis.com/)
-	
-[Jerome Herr](http://www.jeromeherr.space/)
-	
-[Jerome Herr - programming graphics]
-	
-[Trapped in suburbia](http://www.trappedinsuburbia.com/)
-	
-[Luke Sturgeon](http://lukesturgeon.co.uk/)
-	
-[Sitraka](http://sitraka.co.uk/)
-	
-[Monobanda Play](http://www.monobanda-play.com/)
-	
-[Evan Roth](http://blog.evan-roth.com/)
-	
-[Moritz Stefaner](http://truth-and-beauty.net/)
-	
-[L[au]](http://www.lab-au.com/)
-	
-[Culture crew](http://www.culturecrew.be/)
-	
-[Universal Everything](http://www.universaleverything.com/)
-	
-[Andreas Nicholas Fisher](http://www.anf.nu/)
-	
-[Digital Arti](http://www.digitalarti.com/)
-	
-[Lab &#124;&#124;&#124;](http://interface.khm.de/)
-	
-[Zach Gage](http://www.stfj.net/)
-	
-[Marc Ignac](http://www.marcinignac.com/)
-	
-[Benjamin Gaulon](http://www.recyclism.com/)
-	
-[Jeff Crouse](http://www.jeffish.com/)
-	
-[Justin Windle](http://www.soulwire.co.uk/)
-	
-[Gildas Paubert](http://www.gildasp.fr/)
-	
-[Chris o Shea](http://www.chrisoshea.org/)
-	
-[Design I/O](http://www.design-io.com/)
-	
-[Robb Godshaw](http://www.robb.cc/)
-	
-[Synn labs](http://syynlabs.com/)
-	
-[checksum5](http://www.checksum5.com/)
-	
+- [Joshua davis](http://www.joshuadavis.com/)
+- [Jerome Herr](http://www.jeromeherr.space/)
+- [Trapped in suburbia](http://www.trappedinsuburbia.com/)
+- [Luke Sturgeon](http://lukesturgeon.co.uk/)
+- [Sitraka](http://sitraka.co.uk/)
+- [Monobanda Play](http://www.monobanda-play.com/)
+- [Evan Roth](http://blog.evan-roth.com/)
+- [Moritz Stefaner](http://truth-and-beauty.net/)
+- [L[au]](http://www.lab-au.com/)
+- [Universal Everything](http://www.universaleverything.com/)
+- [Andreas Nicholas Fisher](http://www.anf.nu/)
+- [Digital Arti](http://www.digitalarti.com/)
+- [Zach Gage](http://www.stfj.net/)
+- [Marc Ignac](http://www.marcinignac.com/)
+- [Benjamin Gaulon](http://www.recyclism.com/)
+- [Jeff Crouse](http://www.jeffish.com/)
+- [Justin Windle](http://www.soulwire.co.uk/)
+- [Gildas Paubert](http://www.gildasp.fr/)
+- [Chris o Shea](http://www.chrisoshea.org/)
+- [Design I/O](http://www.design-io.com/)
+- [Robb Godshaw](http://www.robb.cc/)
+- [Synn labs](http://syynlabs.com/)
+- [checksum5](http://www.checksum5.com/)
+- [Dominic Wilcox](http://dominicwilcox.com/)	
+- [Brendan Dawes](http://www.brendandawes.com/)
+- [ultra low res](http://www.ultralowres.com/)	
+- [Vera van de Seyp](https://veravandeseyp.com)
 [Jasper van Loenen](https://jaspervanloenen.com/web-training-collar/)
 	
 [Bartholomäus Traubeck](http://www.traubeck.com/)
@@ -121,6 +69,17 @@
 [Onformative](http://www.onformative.com/)
 	
 [Whitevoid](http://www.whitevoid.com/)
+	
+# "ghost" builders
+- [Culture crew](http://www.culturecrew.be/)
+	
+
+	
+
+	
+
+	
+
 	
 [Eness](http://www.eness.com/)
 	
@@ -583,10 +542,4 @@
 	
 [Data vis Berlin](https://datavis.berlin/)
 	
-[Dominic Wilcox](http://dominicwilcox.com/)
-	
-[Brendan Dawes](http://www.brendandawes.com/)
-	
-[ultra low res](http://www.ultralowres.com/)
-	
-[Vera van de Seyp](https://veravandeseyp.com)
+
