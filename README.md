@@ -23,9 +23,9 @@
 - [Robb Godshaw](http://www.robb.cc/)
 - [Synn labs](http://syynlabs.com/)
 - [checksum5](http://www.checksum5.com/)
-- [Dominic Wilcox](http://dominicwilcox.com/
+- [Dominic Wilcox](http://dominicwilcox.com/)
 - [Brendan Dawes](http://www.brendandawes.com/)
-- [ultra low res](http://www.ultralowres.com/
+- [ultra low res](http://www.ultralowres.com/)
 - [Vera van de Seyp](https://veravandeseyp.com)
 - [Jasper van Loenen](https://jaspervanloenen.com/web-training-collar/)
 - [Bartholomäus Traubeck](http://www.traubeck.com/)
