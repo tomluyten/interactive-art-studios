@@ -1,37 +1,8 @@
-
-
+# Interactive Art/Design studios around the world
 	
-[official Processing website](http://www.processing.org)
-	
-[official Arduino website](http://www.arduino.cc)
-	
-[Institute of Positive Design](http://studiolab.ide.tudelft.nl/diopd/)
-	
-[Positive computing website](http://www.positivecomputing.org/)
-	
-[I forgot my phone](https://vimeo.com/73085316)
-	
-[James Bridle @ the conference 2013](https://www.youtube.com/watch?v=PNq0jZvctJE)
-	
-[Branch out - converstation with a stranger](http://itp.nyu.edu/~tlc345/blog/branch-out-start-a-conversation-with-a-stranger/)
-	
-[Zimoun : sculpting sounds](https://www.youtube.com/watch?v=-hWr3Idbtn0&playnext=1&list=PLCD04E0EC72E796EA&feature=results_main)
-	
-[Revel: programming the senses](https://www.youtube.com/watch?v=L7DGq8SddEQ)
-	
-[Magic book - Camille Scherrer](https://www.youtube.com/watch?v=Onr8d4Wfo6I)
-	
-[creative applications](http://www.creativeapplications.net/)
-	
-[Ghosts with shit jobs](http://www.creativeapplications.net/reviews/ive-seen-the-future-i-cant-afford-it-jim-munroes-ghosts-with-shit-jobs/)
-	
-[Urban prototyping](http://www.urbanprototyping.org/)
+- [Zimoun : sculpting sounds](http://www.zimoun.net)
 	
 [Nymi](https://www.nymi.com/)
-	
-[Starfield - LAB 212](https://vimeo.com/36892768)
-	
-[Touché - Disney Research](https://www.youtube.com/watch?v=E4tYpXVTjxA)
 	
 [Written in the stars - AKQA](https://www.youtube.com/watch?v=pY1Wlyqcdsk)
 		(written-in-the-start-akqa)
