@@ -99,7 +99,7 @@
 - [Clayton Shonkwiler](http://shonkwiler.org/)
 - [Andy Gilmore](http://crowquills.com/)
 - [Kim Sehyun](http://kimsehyun.kr/)
-- [Ivan Murit](http://ivan-murit.fr/)(http://issuu.com/delftinstituteofpositivedesign/docs/issuu/82?e=11695776/12206184)
+- [Ivan Murit](http://ivan-murit.fr/)
 - [After the flood](http://aftertheflood.co/)
 - [Hacking habitat](www.hackinghabitat.com)
 - [Color dodge](http://colordodge.com/)
@@ -125,7 +125,7 @@
 - [Ishac Bertran](http://www.ishback.com/)
 - [Artificial Rome](http://www.artificialrome.com/)
 - [Artists and engineers](http://www.artistsandengineers.co.uk/)
-- [Daniel Hirschmann]
+- [Daniel Hirschmann](https://www.danielhirschmann.com/)
 - [Pe lang](http://www.pelang.ch/works.html)
 - [Romain Tardy](http://www.romaintardy.com/)
 - [Pablo Garcia](http://pablogarcia.org/projects)
