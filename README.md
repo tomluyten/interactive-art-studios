@@ -1,615 +1,621 @@
-[official Processing ](http://www.fiftylab.be/links/official-processing-website/)
 
-[official Arduino ](http://www.fiftylab.be/links/official-arduino-website/)
 
-[Institute of Positive ](http://www.fiftylab.be/links/delft-institute-of-positive-design/)
-
-[Positive computing ](http://www.fiftylab.be/links/positive-computing-website/)
-
-[I forgot my ](http://www.fiftylab.be/links/i-forgot-my-phone/)
-
-[James Bridle @ the conference ](http://www.fiftylab.be/links/james-bridle-the-conference-2013/)
-
-[Branch out - converstation with a ](http://www.fiftylab.be/links/branch-out-start-a-converstation-with-a-stranger/)
-
-[Zimoun : sculpting ](http://www.fiftylab.be/links/zimoun-sculpting-sounds/)
-
-[Revel: programming the ](http://www.fiftylab.be/links/revel-programming-the-senses/)
-
-[Magic book - Camille ](http://www.fiftylab.be/links/magic-book-camille-scherrer/)
-
-[creative ](http://www.fiftylab.be/links/creative-applications/)
-
-[Ghosts with shit ](http://www.fiftylab.be/links/ive-seen-the-future-i-cant-afford-it/)
-
-[Urban ](http://www.fiftylab.be/links/urban-prototyping/)
-
-[](http://www.fiftylab.be/links/nymi/)
-
-[Starfield - LAB ](http://www.fiftylab.be/links/starfield-lab-212/)
-
-[Touché - Disney ](http://www.fiftylab.be/links/touche-disney-research/)
-
-[Written in the stars - ](http://www.fiftylab.be/links/written-in-the-stars-akqa/)
-
-[Water Light Graffiti - Antonin ](http://www.fiftylab.be/links/water-light-graffiti-antonin-fourneau/)
-
-[Apparation - Klaus ](http://www.fiftylab.be/links/apparation-klaus-obermaier/)
-
-[Martin ](http://www.fiftylab.be/links/?p=586)
-
-[Limbo - ](http://www.fiftylab.be/links/limbo-playdead/)
-
-[Line Segments - Kimchi and ](http://www.fiftylab.be/links/line-segments-kimchi-and-chips/)
-
-[The creators ](http://www.fiftylab.be/links/the-creators-project/)
-
-[basil.](http://www.fiftylab.be/links/basil-js/)
-
-[](http://www.fiftylab.be/links/nodebox/)
-
-[Hype framework - Joshua ](http://www.fiftylab.be/links/hype-framework-joshua-davis/)
-
-[Joshua ](http://www.fiftylab.be/links/joshua-davis/)
-
-[Jerome ](http://www.fiftylab.be/links/jerome-herr/)
-
-[Jerome Herr - programming ](http://www.fiftylab.be/links/jerome-herr-programming-graphics-skillshare/)
-
-[Trapped in ](http://www.fiftylab.be/links/trapped-in-suburbia-the-hague-netherlands/)
-
-[Luke ](http://www.fiftylab.be/links/luke-sturgeon/)
-
-[](http://www.fiftylab.be/links/sitraka/)
-
-[Monobanda ](http://www.fiftylab.be/links/monobanda-play/)
-
-[Evan ](http://www.fiftylab.be/links/evan-roth/)
-
-[Moritz ](http://www.fiftylab.be/links/moritz-stefaner/)
-
-[L[au]](http://www.fiftylab.be/links/labau/)
-
-[Culture ](http://www.fiftylab.be/links/culture-crew/)
-
-[Universal ](http://www.fiftylab.be/links/universal-everything/)
-
-[Andreas Nicholas ](http://www.fiftylab.be/links/andreas-nicholas-fisher/)
-
-[Digital ](http://www.fiftylab.be/links/digital-arti/)
-
-[Lab &#124;&#124;&#124;](http://www.fiftylab.be/links/lab/)
-
-[Zach ](http://www.fiftylab.be/links/zach-gage/)
-
-[Marc ](http://www.fiftylab.be/links/marc-ignac/)
-
-[Benjamin ](http://www.fiftylab.be/links/benjamin-gaulon/)
-
-[Jeff ](http://www.fiftylab.be/links/jeff-crouse/)
-
-[Justin ](http://www.fiftylab.be/links/justin-windle/)
-
-[Gildas ](http://www.fiftylab.be/links/gildas-paubert/)
-
-[Chris o ](http://www.fiftylab.be/links/chris-o-shea/)
-
-[Design I/](http://www.fiftylab.be/links/design-io/)
-
-[Robb ](http://www.fiftylab.be/links/robb-godshaw/)
-
-[Synn ](http://www.fiftylab.be/links/synn-labs/)
-
-[](http://www.fiftylab.be/links/checksum5/)
-
-[Jasper van ](http://www.fiftylab.be/links/jasper-van-loenen/)
-
-[Bartholomäus ](http://www.fiftylab.be/links/bartholomaus-traubeck/)
-
-[B reel ](http://www.fiftylab.be/links/b-reel-creative/)
-
-[ART+](http://www.fiftylab.be/links/artcom/)
-
-[](http://www.fiftylab.be/links/gergwerk/)
-
-[Luke ](http://www.fiftylab.be/links/luke-hespanhol/)
-
-[Cinimod ](http://www.fiftylab.be/links/cinimod-studios/)
-
-[Nervous ](http://www.fiftylab.be/links/nervous-system/)
-
-[Gaspar ](http://www.fiftylab.be/links/gaspar-battha/)
-
-[Zach ](http://www.fiftylab.be/links/zach-lieberman/)
-
-[Matthias ](http://www.fiftylab.be/links/matthias-oostrik/)
-
-[ACT lighting ](http://www.fiftylab.be/links/act-lighting-design/)
-
-[Lab ](http://www.fiftylab.be/links/lab-101/)
-
-[Jonas ](http://www.fiftylab.be/links/jonas-jongejan/)
-
-[Corneel ](http://www.fiftylab.be/links/corneel-cannaerts/)
-
-[We work we ](http://www.fiftylab.be/links/we-work-we-play/)
-
-[Golan ](http://www.fiftylab.be/links/golan-levin/)
-
-[](http://www.fiftylab.be/links/nexus/)
-
-[Akira Wakita ](http://www.fiftylab.be/links/akira-wakita-laboratory/)
-
-[](http://www.fiftylab.be/links/onformative/)
-
-[](http://www.fiftylab.be/links/whitevoid/)
-
-[](http://www.fiftylab.be/links/eness/)
-
-[Aurora ](http://www.fiftylab.be/links/aurora-mechanica/)
-
-[](http://www.fiftylab.be/links/crew/)
-
-[Roman ](http://www.fiftylab.be/links/roman-grasy/)
-
-[Don ](http://www.fiftylab.be/links/don-havey/)
-
-[](http://www.fiftylab.be/links/simogo/)
-
-[Aaron ](http://www.fiftylab.be/links/aaron-koblin/)
-
-[studio ](http://www.fiftylab.be/links/studio-drift/)
-
-[](http://www.fiftylab.be/links/vtol/)
-
-[](http://www.fiftylab.be/links/hypersonic/)
-
-[Small design ](http://www.fiftylab.be/links/small-design-firm/)
-
-[Kyle ](http://www.fiftylab.be/links/kyle-mcdonald/)
-
-[](http://www.fiftylab.be/links/moniker/)
-
-[Neuro ](http://www.fiftylab.be/links/neuro-productions/)
-
-[Seb Lee ](http://www.fiftylab.be/links/seb-lee-delisle/)
-
-[](http://www.fiftylab.be/links/vormplus/)
-
-[](http://www.fiftylab.be/links/julapy/)
-
-[](http://www.fiftylab.be/links/grayworld/)
-
-[Lab ](http://www.fiftylab.be/links/lab-212/)
-
-[Technology will save ](http://www.fiftylab.be/links/technology-will-save-us/</
-
-[studio ](http://www.fiftylab.be/links/studio-nand/)
-
-[Waag ](http://www.fiftylab.be/links/waag-society/)
-
-[The artist and the ](http://www.fiftylab.be/links/the-artist-and-the-others/)
-
-[](http://www.fiftylab.be/links/eyebeam/)
-
-[](http://www.fiftylab.be/links/ciid/)
-
-[VRT ](http://www.fiftylab.be/links/vrt-innovatie/)
-
-[Het nieuwe ](http://www.fiftylab.be/links/het-nieuwe-instituut/)
-
-[Espaday Santa ](http://www.fiftylab.be/links/espaday-santa-cruz/)
-
-[Justin ](http://www.fiftylab.be/links/justin-lui/)
-
-[Yes Yes ](http://www.fiftylab.be/links/yes-yes-no/)
-
-[Todd ](http://www.fiftylab.be/links/todd-vanderlin/)
-
-[F.A.T. ](http://www.fiftylab.be/links/f-a-t-lab/)
-
-[Emily ](http://www.fiftylab.be/links/emily-gobeille/)
-
-[](http://www.fiftylab.be/links/strukt/)
-
-[Moves map in ](http://www.fiftylab.be/links/moves-map-in-processing)
-
-[painting with ](http://www.fiftylab.be/links/painting-with-sound/)
-
-[](http://www.fiftylab.be/links/gluon/)
-
-[fonds21 - kunst en ](http://www.fiftylab.be/links/fonds21-kunst-en-cultuur/)
-
-[Stimuleringsfonds (NL)](http://www.fiftylab.be/links/stimuleringsfonds-nl/)
-
-[Timo ](http://www.fiftylab.be/links/timo-arnall/)
-
-[International journal of ](http://www.fiftylab.be/links/international-journal-of-design/)
-
-[Leonardo - MIT ](http://www.fiftylab.be/links/leonardo-mit-press/)
-
-[International Journal of Arts and ](http://www.fiftylab.be/links/international-journal-of-arts-and-technology/)
-
-[Journal of Aesthetics](http://www.fiftylab.be/links/journal-of-aesthetics-culture/)
-
-[Digital ](http://www.fiftylab.be/links/digital-creativi
-
-[MultiMedia, ](http://www.fiftylab.be/links/multimedia-ieee/)
-
-[Hypermedia and ](http://www.fiftylab.be/links/hypermedia-and-multimedia/)
-
-[Fab lab ](http://www.fiftylab.be/links/fab-lab-maastricht/)
-
-[Fab lab ](http://www.fiftylab.be/links/fab-lab-genk/)
-
-[Timelab ](http://www.fiftylab.be/links/timelab-gent/)
-
-[ACKspace ](http://www.fiftylab.be/links/ackspace-heerlen/)
-
-[Hackspace ](http://www.fiftylab.be/links/hackspace-brussel/)
-
-[Void warranties ](http://www.fiftylab.be/links/void-warranties-antwerp/)
-
-[Whitespace ](http://www.fiftylab.be/links/whitespace-gent/)
-
-[3D ](http://www.fiftylab.be/links/3d-hubs/)
-
-[](http://www.fiftylab.be/links/infogram/)
-
-[Three.](http://www.fiftylab.be/links/three-js/)
-
-[D3.](http://www.fiftylab.be/links/d3-js/)
-
-[Teenage ](http://www.fiftylab.be/links/teenage-engineering/)
-
-[Critter &amp; ](http://www.fiftylab.be/links/critter-guitari/)
-
-[Beatrice ](http://www.fiftylab.be/links/beatrice-lartigue/)
-
-[](http://www.fiftylab.be/links/gephi/)
-
-[100 data vis ](http://www.fiftylab.be/links/100-data-vis-tools/)
-
-[Pure ](http://www.fiftylab.be/links/pure-data/)
-
-[](http://www.fiftylab.be/links/vvvv/)
-
-[Derivative ](http://www.fiftylab.be/links/derivative-touchdesigner/)
-
-[Johny-](http://www.fiftylab.be/links/johny-five/)
-
-[Mercedes-Benz tweet ](http://www.fiftylab.be/links/mercedes-benz-tweet-fleet/</li
-
-[Who designs your life ?](http://www.fiftylab.be/links/who-designs-your-life/)
-
-[Automate the boring ](http://www.fiftylab.be/links/automate-the-boring-stuff-python-course/)
-
-[AuroraMeccanica - La ](http://www.fiftylab.be/links/aurorameccanica-la-gabbia/</li
-
-[Made with ](http://www.fiftylab.be/links/made-with-code/)
-
-[Portée - making ](http://www.fiftylab.be/links/portee-makin
-
-[Everbright - hero ](http://www.fiftylab.be/links/everbright-hero-design/)
-
-[Visual projection ](http://www.fiftylab.be/links/visual-projection-tools-vpt/)
-
-[Patrik ](http://www.fiftylab.be/links/patrik-huebner/)
-
-[Mathieu ](http://www.fiftylab.be/links/mathieu-river/)
-
-[Lauren ](http://www.fiftylab.be/links/lauren-mccarthy/)
-
-[Open ](http://www.fiftylab.be/links/open-frameworks/)
-
-[Breakout ](http://www.fiftylab.be/links/breakout-js/)
-
-[](http://www.fiftylab.be/links/uva/)
-
-[Simon ](http://www.fiftylab.be/links/simon-heijdens/)
-
-[](http://www.fiftylab.be/links/supercolony/)
-
-[Arduino shield ](http://www.fiftylab.be/links/arduino-shield-list/)
-
-[](http://www.fiftylab.be/links/nocte/)
-
-[Learnable ](http://www.fiftylab.be/links/learnable-programming/)
-
-[Fun ](http://www.fiftylab.be/links/fun-programming/)
-
-[Learning ](http://www.fiftylab.be/links/learning-processing/)
-
-[Learning processing ](http://www.fiftylab.be/links/learning-processing-pdf/)
-
-[Intro to ](http://www.fiftylab.be/links/intro-to-processing/)
-
-[The Nature of ](http://www.fiftylab.be/links/the-nature-of-code/)
-
-[Webster Processing ](http://www.fiftylab.be/links/dane-webster-processing-lessons/)
-
-[Post Spectacular ](http://www.fiftylab.be/links/post-spectacular-workshop/)
-
-[Joanie ](http://www.fiftylab.be/links/joanie-lemercier/)
-
-[Interactive Architecture ](http://www.fiftylab.be/links/interactive-architecture-lab/)
-
-[Bret ](http://www.fiftylab.be/links/bret-victor/)
-
-[Fluid interfaces group ](http://www.fiftylab.be/links/fluid-interfaces-group-mit/</lin
-
-[Electric ](http://www.fiftylab.be/links/electric-objects/)
-
-[Jer Thorp (blprnt)](http://www.fiftylab.be/links/jer-thorp-blprnt/)
-
-[mini ](http://www.fiftylab.be/links/mini-fablab/)
-
-[Rune ](http://www.fiftylab.be/links/rune-madsen/)
-
-[Rune.](http://www.fiftylab.be/links/rune-js/)
-
-[printing ](http://www.fiftylab.be/links/printing-code/)
-
-[Clayton ](http://www.fiftylab.be/links/clayton-shonkwiler/)
-
-[Interactive environments ](http://www.fiftylab.be/links/interactive-environments-tudelft/)
-
-[School for poetic ](http://www.fiftylab.be/links/school-for-poetic-computation/)
-
-[Andy ](http://www.fiftylab.be/links/andy-gilmore/)
-
-[Kim ](http://www.fiftylab.be/links/kim-sehyun/)
-
-[Ivan ](http://www.fiftylab.be/links/ivan-murit/)
-
-[Positive design reference ](http://www.fiftylab.be/links/positive-design-reference-guide/)
-
-[](http://www.fiftylab.be/links/bildr/)
-
-[After the ](http://www.fiftylab.be/links/after-the-flood/)
-
-[Hacking ](http://www.fiftylab.be/links/hacking-habitat/)
-
-[](http://www.fiftylab.be/links/axoloti/)
-
-[Beautiful ](http://www.fiftylab.be/links/beautiful-programming/)
-
-[Color ](http://www.fiftylab.be/links/color-dodge/)
-
-[KLIO digital art ](http://www.fiftylab.be/links/klio-digital-art-frame/)
-
-[Depict digital art ](http://www.fiftylab.be/links/depict-digital-art-frame/)
-
-[Meural digital art ](http://www.fiftylab.be/links/meural-digital-art-frame/)
-
-[FRAMED digital art ](http://www.fiftylab.be/links/framed-digital-art-frame/)
-
-[Electric ](http://www.fiftylab.be/links/electric-objects-2/)
-
-[](http://www.fiftylab.be/links/pneuduino/)
-
-[Robert ](http://www.fiftylab.be/links/robert-seidel/)
-
-[Niklas ](http://www.fiftylab.be/links/niklas-roy/)
-
-[Yuri ](http://www.fiftylab.be/links/yuri-suzuki/)
-
-[](http://www.fiftylab.be/links/nanika/)
-
-[Patricio Gonzalez ](http://www.fiftylab.be/links/patricio-gonzalez-vivo/)
-
-[Peter ](http://www.fiftylab.be/links/peter-struycken/)
-
-[Kasper ](http://www.fiftylab.be/links/kasper-kamperman/)
-
-[Manfred ](http://www.fiftylab.be/links/manfred-mohr/)
-
-[](http://www.fiftylab.be/links/theoriz/)
-
-[Simulation and nature in ](http://www.fiftylab.be/links/simulation-and-nature-in-design/)
-
-[C4 ](http://www.fiftylab.be/links/c4-ios/)
-
-[Strangely ](http://www.fiftylab.be/links/strangely-familiar/)
-
-[type + code : ](http://www.fiftylab.be/links/type-code-processing/)
-
-[](http://www.fiftylab.be/links/playmodes/)
-
-[Nicolas ](http://www.fiftylab.be/links/nicolas-mendoza/)
-
-[CHRIS ](http://www.fiftylab.be/links/chris-sugrue/)
-
-[Darsha ](http://www.fiftylab.be/links/darsha-hewitt/)
-
-[Tecne ](http://www.fiftylab.be/links/tecne-collective/)
-
-[Mix ](http://www.fiftylab.be/links/mix-engineering/)
-
-[Refik ](http://www.fiftylab.be/links/refik-anadol/)
-
-[Pau ](http://www.fiftylab.be/links/pau-garcia/)
-
-[Ishac ](http://www.fiftylab.be/links/ishac-bertran/)
-
-[Artificial ](http://www.fiftylab.be/links/artificial-rome/)
-
-[Artists and ](http://www.fiftylab.be/links/artists-and-engineers/)
-
-[Daniel ](http://www.fiftylab.be/links/daniel-hirschmann/)
-
-[Pe ](http://www.fiftylab.be/links/pe-lang/)
-
-[Romain ](http://www.fiftylab.be/links/romain-tardy/)
-
-[Pablo ](http://www.fiftylab.be/links/pablo-garcia/)
-
-[James ](http://www.fiftylab.be/links/james-auger/)
-
-[Travis ](http://www.fiftylab.be/links/travis-kirton/)
-
-[Ishac ](http://www.fiftylab.be/links/ishac-bertran-2/)
-
-[experiments in ](http://www.fiftylab.be/links/experiments-in-motion/)
-
-[Frame of ](http://www.fiftylab.be/links/frame-of-mind/)
-
-[Processing GLSL ](http://www.fiftylab.be/links/processing-glsl-filters/)
-
-[LAB-](http://www.fiftylab.be/links/lab-eds/)
-
-[Genart ](http://www.fiftylab.be/links/genart-links/)
-
-[](http://www.fiftylab.be/links/field/)
-
-[Ari ](http://www.fiftylab.be/links/ari-weinkle/)
-
-[ABe ](http://www.fiftylab.be/links/abe-pazos/)
-
-[](http://www.fiftylab.be/links/kadenze/)
-
-[James ](http://www.fiftylab.be/links/james-bridle/)
-
-[Martin ](http://www.fiftylab.be/links/martin-bri
-
-[Explained ](http://www.fiftylab.be/links/explained-visually/)
-
-[](http://www.fiftylab.be/links/setosa/)
-
-[](http://www.fiftylab.be/links/complexification/)
-
-[Inconvergent (Anders Hoff)](http://www.fiftylab.be/links/inconvergent-anders-hoff/)
-
-[Generate ](http://www.fiftylab.be/links/ge
-
-[P5 ](http://www.fiftylab.be/links/p5-diary/)
-
-[Tactical Technology ](http://www.fiftylab.be/links/tactical-technology-collective/)
-
-[Book of ](http://www.fiftylab.be/links/book-of-shaders/)
-
-[Nature in code: biology in ](http://www.fiftylab.be/links/nature-in-code-biology-in-javascript/)
-
-[Daily tous les ](http://www.fiftylab.be/links/daily-tous-les-jours/)
-
-[Raphael de ](http://www.fiftylab.be/links/raphael-de-courville/)
-
-[](http://www.fiftylab.be/links/kasuga/)
-
-[A-](http://www.fiftylab.be/links/a-blok/)
-
-[](http://www.fiftylab.be/links/nmy/)
-
-[the ](http://www.fiftylab.be/links/the-hmi/)
-
-[](http://www.fiftylab0</wp
-
-[Kultur ](http://www.fiftylab.be/links/kultur-design/)
-
-[Seeing ](http://www.fiftylab.be/links/seeing
-
-[Algorithm Driven ](http://www.fiftylab.be/links/algorithm-driven-design/</
-
-[](http://www.fiftylab.be/links/neeeu/)
-
-[](http://www.fiftylab.be/links/stoj/)
-
-[random ](http://www.fiftylab.be/links/random-studio/)
-
-[](http://www.fiftylab.be/links/magicstreet/)
-
-[Chris ](http://www.fiftylab.be/links/chris-milk/)
-
-[Niklas ](http://www.fiftylab.be/links/niklas-roy-2/)
-
-[Spektrum ](http://www.fiftylab.be/links/spektrum-berlin/)
-
-[Awesome ](http://www.fiftylab.be/links/awesome-productions/)
-
-[](http://www.fiftylab.be/links/marpl/)
-
-[](http://www.fiftylab.be/links/deframe/)
-
-[Manfred ](http://www.fiftylab.be/links/manfred-mohr-2/)
-
-[Fabian ](http://www.fiftylab.be/links/fabian-oefner/)
-
-[](http://www.fiftylab.be/links/iso/)
-
-[Maker ](http://www.fiftylab.be/links/maker-pro/)
-
-[Floris.](http://www.fiftylab.be/links/floris-cc/)
-
-[Bits and ](http://www.fiftylab.be/links/bits-and-parts/)
-
-[](http://www.fiftylab.be/links/imal/)
-
-[RCA Design ](http://www.fiftylab.be/links/rca-design-interactions/)
-
-[Space Replay (black orb wants to talk)](http://www.fiftylab.be/links/space-replay-black-orb-wants-to-talk/)
-
-[Information Experience Design (RCA)](http://www.fiftylab.be/links/information-experience-design-rca/)
-
-[Interactive Media Arts (NYU shanghai)](http://www.fiftylab.be/links/interactive-media-arts-nyu-shanghai/)
-
-[New Media New ](http://www.fiftylab.be/links/new-media-new-technology/)
-
-[ITP ](http://www.fiftylab.be/links/itp-nyu/)
-
-[Creative care ](http://www.fiftylab.be/links/creative-care-lab/)
-
-[DAVID (kunst x zorg)](http://www.fiftylab.be/links/david-kunst-x-zorg/)
-
-[](http://www.fiftylab.be/links/hydro74/)
-
-[Mike ](http://www.fiftylab.be/links/mike-watt/)
-
-[Good Night ](http://www.fiftylab.be/links/good-night-lamp/)
-
-[Playing with ](http://www.fiftylab.be/links/playing-with-pigs/)
-
-[Niels ](http://www.fiftylab.be/links/niels-quisaba/)
-
-[Emil ](http://www.fiftylab.be/links/emil-kozak/)
-
-[Mathew ](http://www.fiftylab.be/links/mathew-skiff/)
-
-[Arduino Shield ](http://www.fiftylab.be/links/arduino-shield-list-2/)
-
-[](http://www.fiftylab.be/links/inventables/)
-
-[Alberto ](http://www.fiftylab.be/links/alberto-seveso/)
-
-[Physical ](http://www.fiftylab.be/links/physical-visualizations/)
-
-[Melting Memories (Refik Anadol)](http://www.fiftylab.be/links/melting-memories-refik-anadol/)
-
-[Herwig ](http://www.fiftylab.be/links/herwig-sherabon/)
-
-[Creative Coding ](http://www.fiftylab.be/links/creative-coding-examples/)
-
-[](http://www.fiftylab.be/links/iprototype/)
-
-[](http://www.fiftylab.be/links/vanallesenmeer/)
-
-[](http://www.fiftylab.be/links/tinytronics/)
-
-[Bens ](http://www.fiftylab.be/links/bens-electronics/)
-
-[Creative Coding Link List (huge)](http://www.fiftylab.be/links/creative-coding-link-list-huge/)
-
-[Stichting Art and ](http://www.fiftylab.be/links/stichting-art-and-technology/)
-
-[](http://www.fiftylab.be/links/dia/)
-
-[State ](http://www.fiftylab.be/links/state-studio/)
-
-[Data vis ](http://www.fiftylab.be/links/data-vis-berlin/)
-
-[Dominic ](http://www.fiftylab.be/links/dominic-wilcox/)
-
-[Brendan ](http://www.fiftylab.be/links/brendan-dawes/)
-
-[ultra low ](http://www.fiftylab.be/links/ultra-low-res/)
-
-[Vera van de ](http://www.fiftylab.be/links/vera-van-de-seyp/)
+	
+[official Processing website](http://www.processing.org)
+	
+[official Arduino website](http://www.arduino.cc)
+	
+[Institute of Positive Design](http://studiolab.ide.tudelft.nl/diopd/)
+	
+[Positive computing website](http://www.positivecomputing.org/)
+	
+[I forgot my phone](https://vimeo.com/73085316)
+	
+[James Bridle @ the conference 2013](https://www.youtube.com/watch?v=PNq0jZvctJE)
+	
+[Branch out - converstation with a stranger](http://itp.nyu.edu/~tlc345/blog/branch-out-start-a-conversation-with-a-stranger/)
+	
+[Zimoun : sculpting sounds](https://www.youtube.com/watch?v=-hWr3Idbtn0&playnext=1&list=PLCD04E0EC72E796EA&feature=results_main)
+	
+[Revel: programming the senses](https://www.youtube.com/watch?v=L7DGq8SddEQ)
+	
+[Magic book - Camille Scherrer](https://www.youtube.com/watch?v=Onr8d4Wfo6I)
+	
+[creative applications](http://www.creativeapplications.net/)
+	
+[Ghosts with shit jobs](http://www.creativeapplications.net/reviews/ive-seen-the-future-i-cant-afford-it-jim-munroes-ghosts-with-shit-jobs/)
+	
+[Urban prototyping](http://www.urbanprototyping.org/)
+	
+[Nymi](https://www.nymi.com/)
+	
+[Starfield - LAB 212](https://vimeo.com/36892768)
+	
+[Touché - Disney Research](https://www.youtube.com/watch?v=E4tYpXVTjxA)
+	
+[Written in the stars - AKQA](https://www.youtube.com/watch?v=pY1Wlyqcdsk)
+		(written-in-the-start-akqa)
+	
+[Water Light Graffiti - Antonin Fourneau](https://vimeo.com/47095462)
+	
+[Apparation - Klaus Obermaier](https://www.youtube.com/watch?v=-wVq41Bi2yE)
+	
+[Martin Brinkmann]
+
+	
+[Journey - Jenova Chen](https://www.youtube.com/watch?v=InevEqRGRHA)
+	
+[Limbo - playdead](https://www.youtube.com/watch?v=dY_04KJw-jk)
+	
+[Line Segments - Kimchi and Chips](https://vimeo.com/90047240)
+	
+[The creators project](http://thecreatorsproject.vice.com/)
+	
+[basil.js](http://www.basiljs.ch/)
+	
+[Nodebox](https://www.nodebox.net/)
+	
+[Hype framework - Joshua Davis](http://www.hypeframework.org/)
+	
+[Joshua davis](http://www.joshuadavis.com/)
+	
+[Jerome Herr](http://www.jeromeherr.space/)
+	
+[Jerome Herr - programming graphics]
+	
+[Trapped in suburbia](http://www.trappedinsuburbia.com/)
+	
+[Luke Sturgeon](http://lukesturgeon.co.uk/)
+	
+[Sitraka](http://sitraka.co.uk/)
+	
+[Monobanda Play](http://www.monobanda-play.com/)
+	
+[Evan Roth](http://blog.evan-roth.com/)
+	
+[Moritz Stefaner](http://truth-and-beauty.net/)
+	
+[L[au]](http://www.lab-au.com/)
+	
+[Culture crew](http://www.culturecrew.be/)
+	
+[Universal Everything](http://www.universaleverything.com/)
+	
+[Andreas Nicholas Fisher](http://www.anf.nu/)
+	
+[Digital Arti](http://www.digitalarti.com/)
+	
+[Lab &#124;&#124;&#124;](http://interface.khm.de/)
+	
+[Zach Gage](http://www.stfj.net/)
+	
+[Marc Ignac](http://www.marcinignac.com/)
+	
+[Benjamin Gaulon](http://www.recyclism.com/)
+	
+[Jeff Crouse](http://www.jeffish.com/)
+	
+[Justin Windle](http://www.soulwire.co.uk/)
+	
+[Gildas Paubert](http://www.gildasp.fr/)
+	
+[Chris o Shea](http://www.chrisoshea.org/)
+	
+[Design I/O](http://www.design-io.com/)
+	
+[Robb Godshaw](http://www.robb.cc/)
+	
+[Synn labs](http://syynlabs.com/)
+	
+[checksum5](http://www.checksum5.com/)
+	
+[Jasper van Loenen](https://jaspervanloenen.com/web-training-collar/)
+	
+[Bartholomäus Traubeck](http://www.traubeck.com/)
+	
+[B reel creative](http://www.b-reel.com/creative/)
+	
+[ART+COM](http://www.artcom.de/)
+	
+[Gergwerk](http://www.gergwerk.com/)
+	
+[Luke Hespanhol](http://www.nanoluke.com/)
+	
+[Cinimod studios](http://www.cinimodstudio.com/)
+	
+[Nervous system](http://www.n-e-r-v-o-u-s.com/)
+	
+[Gaspar Battha](http://www.gasparbattha.com/)
+	
+[Zach Lieberman](http://www.thesystemis.com/)
+	
+[Matthias Oostrik](http://www.magdatt.nl/)
+	
+[ACT lighting design](https://www.actlightingdesign.com/)
+	
+[Lab 101](http://www.lab101.be/)
+	
+[Jonas Jongejan](http://www.halfdanj.dk/)
+	
+[Corneel Cannaerts](http://www.cannaerts.cc/)
+	
+[We work we play](http://www.weworkweplay.com/)
+	
+[Golan Levin](http://www.flong.com/)
+	
+[Nexus](http://www.nexusproductions.com/interactive-arts)
+	
+[Akira Wakita laboratory](http://wakita.sfc.keio.ac.jp/index.html)
+	
+[Onformative](http://www.onformative.com/)
+	
+[Whitevoid](http://www.whitevoid.com/)
+	
+[Eness](http://www.eness.com/)
+	
+[Aurora Mechanica](http://www.aurorameccanica.it/)
+	
+[Crew](http://www.crewonline.org/)
+	
+[Roman Grasy](http://www.romangrasy.de/)
+	
+[Don Havey](http://donhavey.com/)
+	
+[Simogo](http://www.simogo.com/)
+	
+[Aaron Koblin](http://www.aaronkoblin.com/)
+	
+[studio Drift](http://www.studiodrift.com/)
+	
+[Vtol](http://vtol.cc/)
+	
+[Hypersonic](http://www.hypersonic.cc/)
+	
+[Small design firm](http://smalldesignfirm.com/)
+	
+[Kyle Mcdonald](http://kylemcdonald.net/)
+	
+[Moniker](http://studiomoniker.com/)
+	
+[Neuro productions](http://www.neuroproductions.be/)
+	
+[Seb Lee Delisle](http://www.seb.ly/)
+	
+[Vormplus](http://vormplus.be/)
+	
+[Julapy](http://www.julapy.com/)
+	
+[Grayworld](http://greyworld.org/)
+	
+[Lab 212](http://www.lab212.org/)
+	
+[Technology will save us](https://www.techwillsaveus.com/)
+	
+[studio NAND](http://www.nand.io/)
+	
+[Waag society](http://waag.org/nl)
+	
+[The artist and the others](http://www.theartistandtheothers.nl/)
+	
+[Eyebeam](http://www.eyebeam.org/)
+	
+[CIID](http://www.ciid.dk/)
+	
+[VRT Innovatie](http://innovatie.vrt.be/)
+	
+[Het nieuwe instituut](http://www.hetnieuweinstituut.nl/)
+	
+[Espaday Santa Cruz](http://www.espadaysantacruz.com/)
+	
+[Justin Lui](http://www.justinlui.net/)
+	
+[Yes Yes No](http://www.yesyesno.com/)
+	
+[Todd Vanderlin](http://todd-vanderlin.squarespace.com/)
+	
+[F.A.T. lab](http://www.fffff.at/)
+	
+[Emily Gobeille](http://zanyparade.com/)
+	
+[Strukt](http://www.strukt.com/)
+	
+[Moves map in Processing](http://www.creativeapplications.net/processing/movesmapper-processing-sketch-for-rendering-location-and-activity-data-from-moves-app/)
+	
+[painting with sound](https://gumroad.com/joshuadavis)
+	
+[gluon](http://gluon.be/)
+	
+[fonds21 - kunst en cultuur](https://www.fonds21.nl/kunst-cultuur)
+	
+[Stimuleringsfonds (NL)](http://stimuleringsfonds.nl/)
+	
+[Timo Arnall](http://www.elasticspace.com/)
+	
+[International journal of Design](http://www.ijdesign.org/ojs/index.php/IJDesign/)
+	
+[Leonardo - MIT press](http://www.mitpressjournals.org/loi/leon)
+	
+[International Journal of Arts and Technology](http://www.inderscience.com/jhome.php?jcode=ijart#about)
+	
+[Journal of Aesthetics &amp; Culture](http://www.aestheticsandculture.net/index.php/jac)
+	
+[Digital Creativity](http://www.tandfonline.com/loi/ndcr20#.VehaidOqqko)
+	
+[MultiMedia, IEEE](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=93)
+	
+[Hypermedia and Multimedia](http://www.tandfonline.com/loi/tham20?open=21&repitition=0#vol_21)
+	
+[Fab lab Maastricht](http://www.fablabmaastricht.nl/)
+	
+[Fab lab Genk](http://www.fablabgenk.be/)
+	
+[Timelab Gent](http://www.timelab.org/)
+	
+[ACKspace Heerlen](https://ackspace.nl/wiki/Main_Page)
+	
+[Hackspace Brussel](https://hackerspace.be/Hackerspace_Brussels)
+	
+[Void warranties Antwerp](http://we.voidwarranties.be/)
+	
+[Whitespace Gent](http://0x20.be/Main_Page)
+	
+[3D hubs](https://www.3dhubs.com/)
+	
+[Infogram](https://infogr.am/)
+	
+[Three.js](http://threejs.org/)
+	
+[D3.js](http://d3js.org/)
+	
+[Teenage Engineering](https://www.teenageengineering.com)
+	
+[Critter &amp; Guitari](http://www.critterandguitari.com/)
+	
+[Beatrice Lartigue](http://epure.it/)
+	
+[Gephi](http://gephi.github.io/)
+	
+[100 data vis tools](http://dailytekk.com/2012/02/27/over-100-incredible-infographic-tools-and-resources/)
+	
+[Pure data](http://puredata.info/)
+	
+[VVVV](http://vvvv.org/)
+	
+[Derivative touchdesigner](https://www.derivative.ca/)
+	
+[Johny-five](http://johnny-five.io/)
+	
+[Mercedes-Benz tweet fleet](https://www.youtube.com/watch?v=eX-iYHZ-Ug0&list=PLnAGePf18k_cPjWKfcRX5NzXmUSRYOton&index=1)
+	
+[Who designs your life ?](https://www.bof.nl/2015/06/26/demystifying-the-algorithm-who-designs-your-life/?utm_content=buffer42956&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+	
+[Automate the boring stuff](https://automatetheboringstuff.com/chapter1/)
+	
+[AuroraMeccanica - La Gabbia](https://www.youtube.com/watch?v=1etPOsek3aQ)
+	
+[Made with code](https://www.madewithcode.com/)
+	
+[Portée - making of](http://www.portee-installation.com/)
+	
+[Everbright - hero design](http://www.thisiscolossal.com/2015/08/everbright-light-toy/)
+	
+[Visual projection tools](https://hcgilje.wordpress.com/vpt/)
+	
+[Patrik Huebner](http://www.patrik-huebner.com/)
+	
+[Mathieu Rivier](http://mathieurivier.ch/index.php)
+	
+[Lauren Mccarthy](http://lauren-mccarthy.com/)
+	
+[Open Frameworks](http://www.openframeworks.cc/)
+	
+[Breakout js](http://breakoutjs.com/)
+	
+[UVA](http://uva.co.uk/work)
+	
+[Simon Heijdens](http://www.simonheijdens.com/)
+	
+[Supercolony](http://www.supercolony.co/)
+	
+[Arduino shield list](http://shieldlist.org/)
+	
+[Nocte](http://nocte.co.uk/)
+	
+[Learnable programming](http://worrydream.com/LearnableProgramming/)
+	
+[Fun programming](http://funprogramming.org/)
+	
+[Learning Processing](http://learningprocessing.com/)
+	
+[Learning processing PDF](http://collegiate.old.dsbn.org/Departments/Computer/ICS/Site/CourseFiles/PDF/Learning%20Processing.pdf)
+	
+[Intro to processing](http://introprocessing.blogspot.nl/)
+	
+[The Nature of Code](https://vimeo.com/channels/464686)
+	
+[Webster Processing course](https://www.youtube.com/channel/UCxio_44XxZie52FGDrL-aCg/videos)
+	
+[Post Spectacular workshop](https://github.com/learn-postspectacular/sac-workshop-2014)
+	
+[Joanie Lemercier](http://joanielemercier.com/)
+	
+[Interactive Architecture Lab](http://www.interactivearchitecture.org/)
+	
+[Bret Victor](http://worrydream.com/)
+	
+[Fluid interfaces group MIT](https://vimeo.com/fluidinterfaces/videos)
+	
+[Electric objects](https://www.electricobjects.com/)
+	
+[Jer Thorp (blprnt)](http://blog.blprnt.com/)
+	
+[mini fablab](http://www.minifablab.nl/)
+	
+[Rune Madsen](http://www.runemadsen.com/)
+	
+[Rune.js](http://runemadsen.github.io/rune.js/)
+	
+[printing code](http://printingcode.runemadsen.com/)
+	
+[Clayton Shonkwiler](http://shonkwiler.org/)
+	
+[Interactive environments tudelft](http://studiolab.ide.tudelft.nl/ie/)
+	
+[School for poetic computation](http://sfpc.io/)
+	
+[Andy Gilmore](http://crowquills.com/)
+	
+[Kim Sehyun](http://kimsehyun.kr/)
+	
+[Ivan Murit](http://ivan-murit.fr/)
+	(http://issuu.com/delftinstituteofpositivedesign/docs/issuu/82?e=11695776/12206184)
+	
+[Bildr](http://bildr.org/)
+	
+[After the flood](http://aftertheflood.co/)
+	
+[Hacking habitat](www.hackinghabitat.com)
+	
+[Axoloti](http://www.axoloti.com/)
+	
+[Beautiful programming](http://beautifulprogramming.com/)
+	
+[Color dodge](http://colordodge.com/)
+	
+[KLIO digital art frame](http://www.klioart.com/)
+	
+[Depict digital art frame](https://depict.com)
+	
+[Meural digital art frame](http://meural.com/)
+	
+[FRAMED digital art frame](https://frm.fm/)
+	
+[Electric objects](https://www.electricobjects.com/)
+	
+[Pneuduino](http://pneuduino.org/)
+	
+[Robert Seidel](http://www.robertseidel.com/)
+	
+[Niklas Roy](http://www.niklasroy.com/)
+	
+[Yuri Suzuki](http://yurisuzuki.com/)
+	
+[nanika](http://www.nanikawa.com/)
+	
+[Patricio Gonzalez Vivo](http://patriciogonzalezvivo.com/)
+	
+[Peter Struycken](http://www.pstruycken.nl/)
+	
+[Kasper Kamperman](http://www.kasperkamperman.com/)
+	
+[Manfred Mohr](http://www.emohr.com/)
+	
+[Théoriz](http://www.theoriz.com/)
+	
+[Simulation and nature in design](http://n-e-r-v-o-u-s.com/education/)
+	
+[C4 ios](http://c4ios.com/)
+	
+[Strangely familiar](http://wiring.org.co/exhibition/images/book01.pdf)
+	
+[type + code : Processing](https://issuu.com/jpagecorrigan/docs/type-code_yeohyun-ahn)
+	
+[Playmodes](http://playmodes.com/web/)
+	
+[Nicolas Mendoza](http://www.neilmendoza.com/)
+	
+[CHRIS SUGRUE](http://csugrue.com/)
+	
+[Darsha Hewitt](http://www.darsha.org/)
+	
+[Tecne collective](http://tecnecollective.com/)
+	
+[Mix engineering](http://mix-engineering.com)
+	
+[Refik Anadol](http://www.refikanadol.com/)
+	
+[Pau Garcia](http://paugarciawastaken.com/)
+	
+[Ishac Bertran](http://www.ishback.com/)
+	
+[Artificial Rome](http://www.artificialrome.com/)
+	
+[Artists and engineers](http://www.artistsandengineers.co.uk/)
+	
+[Daniel Hirschmann]
+	
+[Pe lang](http://www.pelang.ch/works.html)
+	
+[Romain Tardy](http://www.romaintardy.com/)
+	
+[Pablo Garcia](http://pablogarcia.org/projects)
+	
+[James Auger](http://www.auger-loizeau.com/)
+	
+[Travis Kirton](http://www.postfl.com/)
+	
+[Ishac Bertran](http://www.ishback.com/)
+	
+[experiments in motion](https://www.youtube.com/watch?v=FdRE8q5TBJ0)
+	
+[Frame of Mind](http://frameofmind.be/)
+	
+[Processing GLSL filters](https://github.com/SableRaf/Filters4Processing)
+	
+[LAB-EDS](http://www.lab-eds.org/)
+	
+[Genart links](http://blog.hvidtfeldts.net/index.php/generative-art-links/)
+	
+[FIELD](https://www.field.io/)
+	
+[Ari Weinkle](http://ariweinkle.com/)
+	
+[ABe Pazos](https://hamoid.com/)
+	
+[Kadenze](https://www.kadenze.com/)
+	
+[James Bridle](http://booktwo.org/)
+	
+[Martin Brinkman](http://www.martin-brinkmann.de/index.html)
+	
+[Explained visually](http://setosa.io/ev/)
+	
+[Setosa](http://setosa.io)
+	
+[complexification](http://www.complexification.net/gallery/)
+	
+[Inconvergent (Anders Hoff)](http://inconvergent.net/)
+	
+[Generate me](https://generateme.wordpress.com/)
+	
+[P5 diary](https://timrodenbroeker.gitbooks.io/p5diary/)
+	
+[Tactical Technology Collective](https://tacticaltech.org/)
+	
+[Book of shaders](https://thebookofshaders.com/)
+	
+[Nature in code: biology in javascript](https://courses.edx.org/courses/course-v1:EPFLx+NiC1.0x+3T2016/info)
+	
+[Daily tous les jours](http://www.dailytouslesjours.com/)
+	
+[Raphael de Courville](http://cargocollective.com/raphaeldecourville)
+	
+[KASUGA](https://kasuga.is/)
+	
+[A-BLOK](http://www.a-blok.com/en/)
+	
+[NMY](https://www.nmy.de)
+	
+[the HMI](http://www.the-hmi.com/)
+	
+[WBLUT](http://www.wblut.com/)
+	
+[Kultur Design](http://www.kultur.design/)
+	
+[Seeing theory](http://students.brown.edu/seeing-theory/)
+	
+[Algorithm Driven Design](http://www.algorithms.design/)
+	
+[NEEEU](http://www.neeeu.io/)
+	
+[Stoj](http://stoj.io/work)
+	
+[random studio](http://random.nu/)
+	
+[Magicstreet](http://www.magicstreet.be/)
+	
+[Chris Milk](http://milk.co/)
+	
+[Niklas Roy](http://www.niklasroy.com/)
+	
+[Spektrum Berlin](http://spektrumberlin.de/home.html)
+	
+[Awesome productions](https://awesome.productions/)
+	
+[Marpl](https://marpi.pl)
+	
+[deframe](http://www.deframe.nl/)
+	
+[Manfred Mohr](https://www.artsy.net/artist/manfred-mohr)
+	
+[Fabian Oefner](http://fabianoefner.com/)
+	
+[ISO](https://isodesign.co.uk)
+	
+[Maker Pro](https://maker.pro/)
+	
+[Floris.cc](http://www.floris.cc)
+	
+[Bits and parts](https://www.bitsandparts.eu/Home/c1)
+	
+[Imal](http://www.imal.org/nl)
+	
+[RCA Design Interactions](http://www.design-interactions.rca.ac.uk/)
+	
+[Space Replay (black orb wants to talk)](http://ied.rca.ac.uk/de-computation/space-replay)
+	
+[Information Experience Design (RCA)](http://ied.rca.ac.uk/)
+	
+[Interactive Media Arts (NYU shanghai)](http://ima.nyu.sh/)
+	
+[New Media New Technology](https://sites.google.com/site/newmedianewtechnology2018/home)
+	
+[ITP NYU](https://tisch.nyu.edu/itp)
+	
+[Creative care lab](http://waag.org/nl/lab/creative-care-lab)
+	
+[DAVID (kunst x zorg)](http://www.david-vzw.be/)
+	
+[Hydro74](http://hydro74.com/)
+	
+[Mike Watt](https://www.mikewatt.org/)
+	
+[Good Night Lamp](https://www.kickstarter.com/projects/designswarm/good-night-lamp)
+	
+[Playing with Pigs](http://www.playingwithpigs.nl/)
+	
+[Niels Quisaba](http://www.digitaldelight.org/)
+	
+[Emil Kozak](http://www.emilkozak.com/)
+	
+[Mathew Skiff](http://www.ithew.com/)
+	
+[Arduino Shield list](http://shieldlist.org/)
+	
+[Inventables](https://www.inventables.com/)
+	
+[Alberto Seveso](http://www.burdu976.com/phs/)
+	
+[Physical visualizations](http://dataphys.org/list/)
+	
+[Melting Memories (Refik Anadol)](http://refikanadol.com/works/melting-memories/)
+	
+[Herwig Sherabon](https://scherabon.com/)
+	
+[Creative Coding Examples](https://medium.com/@angelicabraccia/creative-coding-76d9310962d5)
+	
+[Iprototype](https://iprototype.nl/)
+	
+[vanallesenmeer](https://www.vanallesenmeer.nl/)
+	
+[tinytronics](https://www.tinytronics.nl/)
+	
+[Ben&#039;s electronics](https://benselectronics.nl/)
+	
+[Creative Coding Link List (huge)](https://github.com/terkelg/awesome-creative-coding)
+	
+[Stichting Art and Technology](http://violavirus.nl/index.html)
+	
+[DIA](http://dia.tv/)
+	
+[State studio](https://state-studio.com/)
+	
+[Data vis Berlin](https://datavis.berlin/)
+	
+[Dominic Wilcox](http://dominicwilcox.com/)
+	
+[Brendan Dawes](http://www.brendandawes.com/)
+	
+[ultra low res](http://www.ultralowres.com/)
+	
+[Vera van de Seyp](https://veravandeseyp.com)
