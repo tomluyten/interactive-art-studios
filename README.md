@@ -216,6 +216,7 @@
 - [WBLUT](http://www.wblut.com/)
 - [We work we play](http://www.weworkweplay.com/)
 - [Whitevoid](http://www.whitevoid.com/)
+- [Wildbytes](http://wildbytes.cc/) - Barcelona
 
 ## X
 
