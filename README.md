@@ -1,6 +1,6 @@
 # Interactive Art/Creative coding studios around the world (alphabetically)
 
-## A d
+## A
 - [A-BLOK](http://www.a-blok.com/en/)
 - [Aaron Koblin](http://www.aaronkoblin.com/)
 - [ABe Pazos](https://hamoid.com/)
