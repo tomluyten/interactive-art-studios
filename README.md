@@ -1,6 +1,4 @@
----
 title: "Interactive Art/Creative coding studios"
---- 
 
 ## A
 - [A-BLOK](http://www.a-blok.com/en/)
