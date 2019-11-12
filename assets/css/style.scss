@@ -1,6 +1,5 @@
-body{
-font-size: 20px;
-}
-.page-title{font-size:10px;}
-
-a:hover{color:#000000;}
+---
+---
+@import "{{ site.theme }}";
+h1{font-size: 5px;}
+body{color: #FF0000;}
