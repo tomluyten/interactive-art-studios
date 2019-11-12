@@ -2,4 +2,6 @@
 ---
 
 @import "";
-page-title{font-size:10px;}
+.page-title{font-size:10px;}
+
+a:hover{color:#000000;}
