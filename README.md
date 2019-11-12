@@ -1,7 +1,3 @@
----
-title: "Interactive Art/Creative coding studios"
----
-
 # Title Override
 
 ## A
