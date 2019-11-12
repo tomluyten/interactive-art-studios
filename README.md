@@ -1,4 +1,8 @@
+---
 title: "Interactive Art/Creative coding studios"
+---
+
+# Title Override
 
 ## A
 - [A-BLOK](http://www.a-blok.com/en/)
