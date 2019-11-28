@@ -51,6 +51,7 @@
 - [Digital Arti](http://www.digitalarti.com/)
 - [Dominic Wilcox](http://dominicwilcox.com/)
 - [Don Havey](http://donhavey.com/)
+- [Damien Borowick](http://dborowik.com/)
 
 ## E
 - [Emily Gobeille](http://zanyparade.com/)
