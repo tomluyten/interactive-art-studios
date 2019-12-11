@@ -1,10 +1,10 @@
 # Interactive art studios/artist repo
 
 ## A
-- [A-BLOK](http://www.a-blok.com/en/)
+- [A-BLOK](http://www.a-blok.com/en/) - France 
 - [Aaron Koblin](http://www.aaronkoblin.com/)
-- [ABe Pazos](https://hamoid.com/)
-- [ACT lighting design](https://www.actlightingdesign.com/)
+- [ABe Pazos](https://hamoid.com/) - Berlin, Germany
+- [ACT lighting design](https://www.actlightingdesign.com/) - Brussels, Belgium
 - [After the flood](http://aftertheflood.co/)
 - [Akira Wakita laboratory](http://wakita.sfc.keio.ac.jp/index.html)
 - [Alberto Seveso](http://www.burdu976.com/phs/)
