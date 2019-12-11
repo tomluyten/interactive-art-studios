@@ -5,9 +5,6 @@
 - [Aaron Koblin](http://www.aaronkoblin.com/)
 - [ABe Pazos](https://hamoid.com/) - Berlin, Germany
 - [ACT lighting design](https://www.actlightingdesign.com/) - Brussels, Belgium
-- [After the flood](http://aftertheflood.co/)
-- [Akira Wakita laboratory](http://wakita.sfc.keio.ac.jp/index.html)
-- [Alberto Seveso](http://www.burdu976.com/phs/)
 - [Algorithm Driven Design](http://www.algorithms.design/)
 - [Andreas Nicholas Fisher](http://www.anf.nu/)
 - [Andy Gilmore](http://crowquills.com/)
