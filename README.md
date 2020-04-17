@@ -143,6 +143,7 @@
 - [Niklas Roy](http://www.niklasroy.com/)
 - [NMY](https://www.nmy.de)
 - [Nocte](http://nocte.co.uk/)
+- [MXZEHN](https://mxav.net/recent-work)
 
 ## O
 - [Onformative](http://www.onformative.com/)
