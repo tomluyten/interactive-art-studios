@@ -198,8 +198,10 @@
 - [Théoriz](http://www.theoriz.com/)
 - [Timo Arnall](http://www.elasticspace.com/)
 - [Todd Vanderlin](http://todd-vanderlin.squarespace.com/)
+- [Tom Luyten](http://www.tomluyten.com)
 - [Trapped in suburbia](http://www.trappedinsuburbia.com/)
 - [Travis Kirton](http://www.postfl.com/)
+- [Tyler Hobbs](https://tylerxhobbs.com/)
 
 ## U
 - [ultra low res](http://www.ultralowres.com/)
