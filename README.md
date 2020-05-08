@@ -63,6 +63,7 @@
 - [Fabian Oefner](http://fabianoefner.com/)
 - [FIELD](https://www.field.io/)
 - [Frame of Mind](http://frameofmind.be/)
+- [Frolic studio](https://www.frolicstudio.com/)
 
 ## G
 - [Gaspar Battha](http://www.gasparbattha.com/)
