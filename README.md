@@ -176,6 +176,7 @@
 - [Rune.js](http://runemadsen.github.io/rune.js/)
 
 ## S
+- [Saglio Pauline](https://www.sagl.io/)
 - [Seb Lee Delisle](http://www.seb.ly/)
 - [Seeing theory](http://students.brown.edu/seeing-theory/)
 - [Setosa](http://setosa.io)
